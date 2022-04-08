@@ -101,6 +101,7 @@ function checaVencedor() {
 function mudarVencedor(quadrado) {
     vencedor = quadrado.innerHTML;
     vencedorSelecionado.innerHTML = vencedor;
+
 }
 
 function mudarCorQuadrado(quadrado1, quadrado2, quadrado3) {
