@@ -1,4 +1,4 @@
-# Jogo da Velha
+# Jogo da Velha  :x: :hash: :o:
 Jogo da velha é um jogo popular de regras simples com duas peças, normalmente, usam-se X e O. Seu objetivo é preencher uma reta, seja ela vertical, horizontal ou diagonal, os dois participantes alternam as jogadas e o primeiro que preencher ganha. 
 
 ## Instruções para acessar o jogo
